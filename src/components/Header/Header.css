@@ -1,0 +1,15 @@
+.top-menu-item{
+    text-decoration: none;
+    color: black;
+}
+.header{
+    background: #F0FFF0;
+}
+.site-name{
+    color: #21B573;
+    text-decoration: none;
+}
+.site-name:hover{
+    color: #21B573;
+    text-decoration: none;
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "key": "1",
+        "name": "Basic JAVA",
+        "price": 150,
+        "rating": 4.8,
+        "description": "A complete beginner friendly courses where you learn from scratch.",
+        "img": "https://user-images.githubusercontent.com/77241744/135769352-c1e83564-2d8a-45a8-be66-17e57a4af209.png",
+        "startDate": "01-11-2021",
+        "sits": 100
+    },
+    {
+        "key": "2",
+        "name": "Advance JAVA",
+        "price": 250,
+        "rating": 5,
+        "description": "A complete intermediate level courses where you learn JAVA advance production level.",
+        "img": "https://user-images.githubusercontent.com/77241744/135769444-263e14c0-fd75-4ab1-bd69-d2431072da86.png",
+        "startDate": "01-12-2021",
+        "sits": 200
+    },
+    {
+        "key": "3",
+        "name": "Basic Android",
+        "price": 100,
+        "rating": 5,
+        "description": "A complete beginner level courses where you learn basic android apps development fundamentals",
+        "img": "https://user-images.githubusercontent.com/77241744/135769629-bae4d32b-4027-4016-9c41-f73ebe828391.png",
+        "startDate": "01-11-2021"
+    },
+    {
+        "key": "4",
+        "name": "Advance App Development",
+        "price": 500,
+        "rating": 4.8,
+        "description": "A complete intermediate to advance level courses where you learn android apps development with real life projects",
+        "img": "https://user-images.githubusercontent.com/77241744/135769768-8d7211a9-640a-4ae5-acb4-92c7e177f5d0.png",
+        "startDate": "01-11-2021",
+        "sits": 50
+    },
+    {
+        "key": "5",
+        "name": "Rest API Development",
+        "price": 300,
+        "rating": 4.5,
+        "description": "A complete intermediate level courses where you how to develop a RESTFul API Using PHP.",
+        "img": "https://user-images.githubusercontent.com/77241744/135769793-ffacb04c-55c5-4af1-9296-984100d39bf9.png",
+        "startDate": "01-12-2021",
+        "sits": 75
+    },
+    {
+        "key": "6",
+        "name": "MYSQL",
+        "price": 200,
+        "rating": 4.7,
+        "description": "A complete beginner to advance level courses where you how to manage MYSQL database & how it works with PHP.",
+        "img": "https://user-images.githubusercontent.com/77241744/135769839-141ab079-5639-4e4c-9d4a-f5c9e1983faf.png",
+        "startDate": "10-10-2021",
+        "sits": 120
+    },
+    {
+        "key": "7",
+        "name": "Firebase",
+        "price": 50,
+        "rating": 5,
+        "description": "A complete beginner to advance level courses where you how to use Firebase with android app.",
+        "img": "https://user-images.githubusercontent.com/77241744/135769990-039405e8-3765-4b5f-aaf6-6bb056a94bb5.png",
+        "startDate": "10-12-2021",
+        "sits": 300
+    },
+    {
+        "key": "8",
+        "name": "Kotlin",
+        "price": 600,
+        "rating": 4.9,
+        "description": "A complete beginner to advance level courses where you learn how to develop application using Kotlin",
+        "img": "https://user-images.githubusercontent.com/77241744/135770034-4305ba6d-b29f-4373-8b86-63d47248f062.png",
+        "startDate": "10-01-2022",
+        "sits": 20
+    }
+    
+]

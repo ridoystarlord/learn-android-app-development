@@ -1,0 +1,12 @@
+.footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+p{
+    margin-bottom: 0;
+}
+.go-to-home{
+    color: white;
+    text-decoration: none;
+}
